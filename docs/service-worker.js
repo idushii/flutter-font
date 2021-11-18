@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.75b52821c8005e94c6cd106eabf2f4fd.js"
+  "precache-manifest.a523c8eb89921a0fe1857f156b5d38b6.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "fonts-generator"});
