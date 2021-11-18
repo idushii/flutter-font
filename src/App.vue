@@ -1,6 +1,7 @@
 <template>
   <div>
     <p>Данная утилита генерирует код файл pubspec для подключения шрифтов в приложение Flutter</p>
+    <p>Для начала работы выберите папку со шрифтами ttf, которые необходимо подключить.</p>
 
     <button id="butDirectory" autofocus>open directory</button>
 
